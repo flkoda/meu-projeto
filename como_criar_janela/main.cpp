@@ -20,6 +20,6 @@ int main()
         window.display();
     }
     printf("ola mundo");
-
+     printf("ola mundo");
     return 0;
 } // <-- Correção: fechando a função 
